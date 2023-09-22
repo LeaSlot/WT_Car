@@ -1,0 +1,52 @@
+State,Year,Company,Type,Value
+North Dakota,2019,Progressive,Market share ,0.1658
+North Dakota,2019,State Farm,Market share ,0.1365
+North Dakota,2019,American Family Insurance,Market share ,0.0885
+North Dakota,2019,National General Holdings Corp.,Market share ,0.0856
+North Dakota,2019,Nodak Mutual Group Inc.,Market share ,0.0856
+North Dakota,2019,USAA,Market share ,0.0488
+North Dakota,2019,Berkshire Hathaway Inc.,Market share ,0.0366
+North Dakota,2019,Grinnell Mutual,Market share ,0.0342
+North Dakota,2019,Farmers Insurance,Market share ,0.0329
+North Dakota,2019,Center Mutual Insurance Co.,Market share ,0.0313
+Washington,2019,State Farm,Market share ,0.1605
+Washington,2019,Berkshire Hathaway Inc. ,Market share ,0.1157
+Washington,2019,Liberty Mutual,Market share ,0.1043
+Washington,2019,Progressive,Market share ,0.0974
+Washington,2019,Allstate Corp.,Market share ,0.0922
+Washington,2019,USAA,Market share ,0.0825
+Washington,2019,Farmers Insurance,Market share ,0.0694
+Washington,2019,PEMCO Mutual Insurance Co.,Market share ,0.0537
+Washington,2019,American Family Insurance,Market share ,0.047
+Washington,2019,The Hartford,Market share ,0.023
+South Dakota,2019,State Farm,Market share ,0.1871
+South Dakota,2019,Progressive,Market share ,0.149
+South Dakota,2019,American Family Insurance,Market share ,0.0974
+South Dakota,2019,Farmers Mutual Insurance Co. of Nebraska,Market share ,0.0517
+South Dakota,2019,Farmers Insurance,Market share ,0.0462
+South Dakota,2019,USAA,Market share ,0.045
+South Dakota,2019,Nationwide,Market share ,0.0423
+South Dakota,2019,Berkshire Hathaway Inc.,Market share ,0.0348
+South Dakota,2019,De Smet Farm Mutual Insurance Co. of South Dakota,Market share ,0.0332
+South Dakota,2019,Liberty Mutual,Market share ,0.0318
+Massachusetts,2019,MAPFRE,Market share ,0.2328
+Massachusetts,2019,Berkshire Hathaway Inc.,Market share ,0.1271
+Massachusetts,2019,Liberty Mutual,Market share ,0.1072
+Massachusetts,2019,Safety Insurance,Market share ,0.0841
+Massachusetts,2019,Arbella Insurance,Market share ,0.0769
+Massachusetts,2019,Plymouth Rock Co.,Market share ,0.0666
+Massachusetts,2019,Progressive,Market share ,0.0472
+Massachusetts,2019,MetLife,Market share ,0.0374
+Massachusetts,2019,Travelers,Market share ,0.0316
+Massachusetts,2019,USAA,Market share ,0.0313
+North Carolina,2019,State Farm,Market share ,0.1487
+North Carolina,2019,Berkshire Hathaway Inc.,Market share ,0.1226
+North Carolina,2019,Nationwide,Market share ,0.1083
+North Carolina,2019,National General Holdings Corp.,Market share ,0.1014
+North Carolina,2019,North Carolina Farm Bureau Insurance,Market share ,0.0962
+North Carolina,2019,Allstate Corp.,Market share ,0.0815
+North Carolina,2019,USAA,Market share ,0.0754
+North Carolina,2019,Progressive,Market share ,0.0632
+North Carolina,2019,Erie Insurance,Market share ,0.0393
+North Carolina,2019,Liberty Mutual,Market share ,0.0282
+North Carolina,2019,Sentry,Market share ,0.0164

@@ -1,0 +1,466 @@
+State,Year,Type,Value
+North Carolina,2016,Drivers,7267042
+Washington,2016,Drivers,5635715
+Massachusetts,2016,Drivers,5040662
+South Dakota,2016,Drivers,622663
+North Dakota,2016,Drivers,555935
+North Carolina,2017,Drivers,7389467
+Washington,2017,Drivers,5768281
+Massachusetts,2017,Drivers,4935176
+South Dakota,2017,Drivers,628506
+North Dakota,2017,Drivers,561667
+North Carolina,2018,Drivers,7509231
+Washington,2018,Drivers,5909967
+Massachusetts,2018,Drivers,4944666
+South Dakota,2018,Drivers,638428
+North Dakota,2018,Drivers,561333
+North Carolina,2019,Drivers,7620001
+Washington,2019,Drivers,5711136
+Massachusetts,2019,Drivers,4950056
+North Dakota,2019,Drivers,556064
+South Dakota,2019,Drivers,648663
+North Carolina,2020,Drivers,7637400
+Washington,2020,Drivers,5812500
+Massachusetts,2020,Drivers,4940373
+South Dakota,2020,Drivers,658091
+North Dakota,2020,Drivers,539006
+North Carolina,2021,Drivers,7765109
+Washington,2021,Drivers,5868509
+Massachusetts,2021,Drivers,4899931
+South Dakota,2021,Drivers,671149
+North Dakota,2021,Drivers,549721
+North Carolina,2016,Accidents,6147
+Washington,2016,Accidents,9315
+Massachusetts,2016,Accidents,5200
+South Dakota,2016,Accidents,8
+North Dakota,2016,Accidents,3
+North Carolina,2017,Accidents,34108
+Washington,2017,Accidents,18497
+Massachusetts,2017,Accidents,9046
+South Dakota,2017,Accidents,12
+North Dakota,2017,Accidents,4
+North Carolina,2018,Accidents,56262
+Washington,2018,Accidents,18984
+Massachusetts,2018,Accidents,9427
+South Dakota,2018,Accidents,13
+North Dakota,2018,Accidents,19
+North Carolina,2019,Accidents,45999
+Washington,2019,Accidents,14718
+Massachusetts,2019,Accidents,9349
+North Dakota,2019,Accidents,17
+South Dakota,2019,Accidents,27
+North Carolina,2020,Accidents,48633
+Washington,2020,Accidents,13211
+Massachusetts,2020,Accidents,11101
+South Dakota,2020,Accidents,160
+North Dakota,2020,Accidents,399
+North Carolina,2021,Accidents,65750
+Washington,2021,Accidents,16093
+Massachusetts,2021,Accidents,11464
+South Dakota,2021,Accidents,32
+North Dakota,2021,Accidents,1529
+North Carolina,2016,Rel_accident,1182.209533
+Washington,2016,Rel_accident,605.0150295
+Massachusetts,2016,Rel_accident,969.3580769
+South Dakota,2016,Rel_accident,77832.875
+North Dakota,2016,Rel_accident,185311.6667
+North Carolina,2017,Rel_accident,216.6490853
+Washington,2017,Rel_accident,311.8495432
+Massachusetts,2017,Rel_accident,545.5644484
+South Dakota,2017,Rel_accident,52375.5
+North Dakota,2017,Rel_accident,140416.75
+North Carolina,2018,Rel_accident,133.4689666
+Washington,2018,Rel_accident,311.3130531
+Massachusetts,2018,Rel_accident,524.521693
+South Dakota,2018,Rel_accident,49109.84615
+North Dakota,2018,Rel_accident,29543.84211
+North Carolina,2019,Rel_accident,165.6557969
+Washington,2019,Rel_accident,388.0375051
+Massachusetts,2019,Rel_accident,529.4743823
+North Dakota,2019,Rel_accident,32709.64706
+South Dakota,2019,Rel_accident,24024.55556
+North Carolina,2020,Rel_accident,157.041515
+Washington,2020,Rel_accident,439.9742639
+Massachusetts,2020,Rel_accident,445.0385551
+South Dakota,2020,Rel_accident,4113.06875
+North Dakota,2020,Rel_accident,1350.892231
+North Carolina,2021,Rel_accident,118.1005171
+Washington,2021,Rel_accident,364.6622134
+Massachusetts,2021,Rel_accident,427.4189637
+South Dakota,2021,Rel_accident,20973.40625
+North Dakota,2021,Rel_accident,359.529758
+North Carolina,2016,Fatalities,1306
+Washington,2016,Fatalities,534
+Massachusetts,2016,Fatalities,333
+South Dakota,2016,Fatalities,111
+North Dakota,2016,Fatalities,106
+North Carolina,2017,Fatalities,1306
+Washington,2017,Fatalities,534
+Massachusetts,2017,Fatalities,333
+South Dakota,2017,Fatalities,111
+North Dakota,2017,Fatalities,106
+North Carolina,2018,Fatalities,1321
+Washington,2018,Fatalities,490
+Massachusetts,2018,Fatalities,338
+South Dakota,2018,Fatalities,110
+North Dakota,2018,Fatalities,95
+North Carolina,2019,Fatalities,1358
+Washington,2019,Fatalities,513
+Massachusetts,2019,Fatalities,323
+North Dakota,2019,Fatalities,91
+South Dakota,2019,Fatalities,88
+North Carolina,2020,Fatalities,1415
+Washington,2020,Fatalities,539
+Massachusetts,2020,Fatalities,327
+South Dakota,2020,Fatalities,132
+North Dakota,2020,Fatalities,96
+North Carolina,2021,Fatalities,1535
+Washington,2021,Fatalities,603
+Massachusetts,2021,Fatalities,397
+South Dakota,2021,Fatalities,131
+North Dakota,2021,Fatalities,85
+North Carolina,2016,Rel_Fatality,5564.350689
+Washington,2016,Rel_Fatality,10553.77341
+Massachusetts,2016,Rel_Fatality,15137.12312
+South Dakota,2016,Rel_Fatality,5609.576577
+North Dakota,2016,Rel_Fatality,5244.669811
+North Carolina,2017,Rel_Fatality,5658.091118
+Washington,2017,Rel_Fatality,10802.02434
+Massachusetts,2017,Rel_Fatality,14820.34835
+South Dakota,2017,Rel_Fatality,5662.216216
+North Dakota,2017,Rel_Fatality,5298.745283
+North Carolina,2018,Rel_Fatality,5684.504921
+Washington,2018,Rel_Fatality,12061.15714
+Massachusetts,2018,Rel_Fatality,14629.18935
+South Dakota,2018,Rel_Fatality,5803.890909
+North Dakota,2018,Rel_Fatality,5908.768421
+North Carolina,2019,Rel_Fatality,5611.193667
+Washington,2019,Rel_Fatality,11132.81871
+Massachusetts,2019,Rel_Fatality,15325.25077
+North Dakota,2019,Rel_Fatality,6110.593407
+South Dakota,2019,Rel_Fatality,7371.170455
+North Carolina,2020,Rel_Fatality,5397.45583
+Washington,2020,Rel_Fatality,10783.859
+Massachusetts,2020,Rel_Fatality,15108.17431
+South Dakota,2020,Rel_Fatality,4985.537879
+North Dakota,2020,Rel_Fatality,5614.645833
+North Carolina,2021,Rel_Fatality,5058.702932
+Washington,2021,Rel_Fatality,9732.187396
+Massachusetts,2021,Rel_Fatality,12342.39547
+South Dakota,2021,Rel_Fatality,5123.274809
+North Dakota,2021,Rel_Fatality,6467.305882
+Massachusetts,2017,Bodily injury inc claims,58289
+Massachusetts,2018,Bodily injury inc claims,56392
+Massachusetts,2019,Bodily injury inc claims,54709
+North Carolina,2017,Bodily injury inc claims,78086
+North Carolina,2018,Bodily injury inc claims,82184
+North Carolina,2019,Bodily injury inc claims,89702
+North Dakota,2017,Bodily injury inc claims,972
+North Dakota,2018,Bodily injury inc claims,988
+North Dakota,2019,Bodily injury inc claims,999
+South Dakota,2017,Bodily injury inc claims,2789
+South Dakota,2018,Bodily injury inc claims,2862
+South Dakota,2019,Bodily injury inc claims,2739
+Washington,2017,Bodily injury inc claims,52009
+Washington,2018,Bodily injury inc claims,49731
+Washington,2019,Bodily injury inc claims,45637
+Massachusetts,2017,Bodily injury inc losses,780618138
+Massachusetts,2018,Bodily injury inc losses,763315181
+Massachusetts,2019,Bodily injury inc losses,779819205
+North Carolina,2017,Bodily injury inc losses,931378183
+North Carolina,2018,Bodily injury inc losses,963997814
+North Carolina,2019,Bodily injury inc losses,1067352862
+North Dakota,2017,Bodily injury inc losses,27448330
+North Dakota,2018,Bodily injury inc losses,32261677
+North Dakota,2019,Bodily injury inc losses,28903982
+South Dakota,2017,Bodily injury inc losses,54602138
+South Dakota,2018,Bodily injury inc losses,53635804
+South Dakota,2019,Bodily injury inc losses,54195425
+Washington,2017,Bodily injury inc losses,899842965
+Washington,2018,Bodily injury inc losses,870147684
+Washington,2019,Bodily injury inc losses,785244452
+Massachusetts,2017,Bodily injury premiums,1359646777
+Massachusetts,2018,Bodily injury premiums,1397216230
+Massachusetts,2019,Bodily injury premiums,1422231193
+North Carolina,2017,Bodily injury premiums,1169054331
+North Carolina,2018,Bodily injury premiums,1218929865
+North Carolina,2019,Bodily injury premiums,1246111856
+North Dakota,2017,Bodily injury premiums,51772176
+North Dakota,2018,Bodily injury premiums,51606924
+North Dakota,2019,Bodily injury premiums,50573720
+South Dakota,2017,Bodily injury premiums,95478188
+South Dakota,2018,Bodily injury premiums,97540640
+South Dakota,2019,Bodily injury premiums,96167485
+Washington,2017,Bodily injury premiums,1236831304
+Washington,2018,Bodily injury premiums,1291840267
+Washington,2019,Bodily injury premiums,1320718304
+Massachusetts,2017,Boduly injury loss ratio,57.41
+Massachusetts,2018,Boduly injury loss ratio,54.63
+Massachusetts,2019,Boduly injury loss ratio,54.83
+North Carolina,2017,Boduly injury loss ratio,79.67
+North Carolina,2018,Boduly injury loss ratio,79.09
+North Carolina,2019,Boduly injury loss ratio,85.65
+North Dakota,2017,Boduly injury loss ratio,53.02
+North Dakota,2018,Boduly injury loss ratio,62.51
+North Dakota,2019,Boduly injury loss ratio,57.15
+South Dakota,2017,Boduly injury loss ratio,57.19
+South Dakota,2018,Boduly injury loss ratio,54.99
+South Dakota,2019,Boduly injury loss ratio,56.36
+Washington,2017,Boduly injury loss ratio,72.75
+Washington,2018,Boduly injury loss ratio,67.36
+Washington,2019,Boduly injury loss ratio,59.46
+Massachusetts,2017,Collision inc losses,946533468
+Massachusetts,2018,Collision inc losses,984388763
+Massachusetts,2019,Collision inc losses,1015121913
+North Carolina,2017,Collision inc losses,929959132
+North Carolina,2018,Collision inc losses,1029705821
+North Carolina,2019,Collision inc losses,1121431103
+North Dakota,2017,Collision inc losses,77718332
+North Dakota,2018,Collision inc losses,79488546
+North Dakota,2019,Collision inc losses,86685380
+South Dakota,2017,Collision inc losses,67807826
+South Dakota,2018,Collision inc losses,75957725
+South Dakota,2019,Collision inc losses,92019024
+Washington,2017,Collision inc losses,743043628
+Washington,2018,Collision inc losses,748647931
+Washington,2019,Collision inc losses,801388669
+Massachusetts,2017,Collision loss ratio,60.43
+Massachusetts,2018,Collision loss ratio,59.71
+Massachusetts,2019,Collision loss ratio,59.28
+North Carolina,2017,Collision loss ratio,62.31
+North Carolina,2018,Collision loss ratio,64.11
+North Carolina,2019,Collision loss ratio,65.31
+North Dakota,2017,Collision loss ratio,68.93
+North Dakota,2018,Collision loss ratio,66.77
+North Dakota,2019,Collision loss ratio,70.62
+South Dakota,2017,Collision loss ratio,68.18
+South Dakota,2018,Collision loss ratio,71.62
+South Dakota,2019,Collision loss ratio,84.03
+Washington,2017,Collision loss ratio,77.5
+Washington,2018,Collision loss ratio,71.78
+Washington,2019,Collision loss ratio,71.77
+Massachusetts,2017,Collision premiums,1566239556
+Massachusetts,2018,Collision premiums,1648538554
+Massachusetts,2019,Collision premiums,1712335940
+North Carolina,2017,Collision premiums,1492456145
+North Carolina,2018,Collision premiums,1606201684
+North Carolina,2019,Collision premiums,1717205190
+North Dakota,2017,Collision premiums,112742984
+North Dakota,2018,Collision premiums,119055208
+North Dakota,2019,Collision premiums,122755149
+South Dakota,2017,Collision premiums,99448983
+South Dakota,2018,Collision premiums,106051235
+South Dakota,2019,Collision premiums,109504356
+Washington,2017,Collision premiums,958763906
+Washington,2018,Collision premiums,1043024440
+Washington,2019,Collision premiums,1116628070
+Massachusetts,2017,Collsion inc claims,287879
+Massachusetts,2018,Collsion inc claims,282529
+Massachusetts,2019,Collsion inc claims,278123
+North Carolina,2017,Collsion inc claims,246536
+North Carolina,2018,Collsion inc claims,258691
+North Carolina,2019,Collsion inc claims,269551
+North Dakota,2017,Collsion inc claims,21687
+North Dakota,2018,Collsion inc claims,20889
+North Dakota,2019,Collsion inc claims,22356
+South Dakota,2017,Collsion inc claims,17534
+South Dakota,2018,Collsion inc claims,18497
+South Dakota,2019,Collsion inc claims,21365
+Washington,2017,Collsion inc claims,182324
+Washington,2018,Collsion inc claims,178609
+Washington,2019,Collsion inc claims,183492
+Massachusetts,2017,Comprehensive inc claims,496855
+Massachusetts,2018,Comprehensive inc claims,507415
+Massachusetts,2019,Comprehensive inc claims,515796
+North Carolina,2017,Comprehensive inc claims,255525
+North Carolina,2018,Comprehensive inc claims,287553
+North Carolina,2019,Comprehensive inc claims,299978
+North Dakota,2017,Comprehensive inc claims,36127
+North Dakota,2018,Comprehensive inc claims,37508
+North Dakota,2019,Comprehensive inc claims,41900
+South Dakota,2017,Comprehensive inc claims,52073
+South Dakota,2018,Comprehensive inc claims,55078
+South Dakota,2019,Comprehensive inc claims,50764
+Washington,2017,Comprehensive inc claims,360393
+Washington,2018,Comprehensive inc claims,355140
+Washington,2019,Comprehensive inc claims,357778
+Massachusetts,2017,Comprehensive inc losses,319701537
+Massachusetts,2018,Comprehensive inc losses,377288679
+Massachusetts,2019,Comprehensive inc losses,362794723
+North Carolina,2017,Comprehensive inc losses,378414711
+North Carolina,2018,Comprehensive inc losses,490533321
+North Carolina,2019,Comprehensive inc losses,511616222
+North Dakota,2017,Comprehensive inc losses,57765980
+North Dakota,2018,Comprehensive inc losses,69395542
+North Dakota,2019,Comprehensive inc losses,88787807
+South Dakota,2017,Comprehensive inc losses,120480109
+South Dakota,2018,Comprehensive inc losses,139045249
+South Dakota,2019,Comprehensive inc losses,113058960
+Washington,2017,Comprehensive inc losses,226970386
+Washington,2018,Comprehensive inc losses,231492924
+Washington,2019,Comprehensive inc losses,253910792
+Massachusetts,2017,Comprehensive loss ratio,56.39
+Massachusetts,2018,Comprehensive loss ratio,64.63
+Massachusetts,2019,Comprehensive loss ratio,60.52
+North Carolina,2017,Comprehensive loss ratio,66.09
+North Carolina,2018,Comprehensive loss ratio,78.77
+North Carolina,2019,Comprehensive loss ratio,76.39
+North Dakota,2017,Comprehensive loss ratio,57.64
+North Dakota,2018,Comprehensive loss ratio,63.79
+North Dakota,2019,Comprehensive loss ratio,77.95
+South Dakota,2017,Comprehensive loss ratio,92.51
+South Dakota,2018,Comprehensive loss ratio,96.92
+South Dakota,2019,Comprehensive loss ratio,73.14
+Washington,2017,Comprehensive loss ratio,66.32
+Washington,2018,Comprehensive loss ratio,63.74
+Washington,2019,Comprehensive loss ratio,67.36
+Massachusetts,2017,Comprehensive premiums,566941564
+Massachusetts,2018,Comprehensive premiums,583781905
+Massachusetts,2019,Comprehensive premiums,599436832
+North Carolina,2017,Comprehensive premiums,572611438
+North Carolina,2018,Comprehensive premiums,622740646
+North Carolina,2019,Comprehensive premiums,669777316
+North Dakota,2017,Comprehensive premiums,100213991
+North Dakota,2018,Comprehensive premiums,108785845
+North Dakota,2019,Comprehensive premiums,113905560
+South Dakota,2017,Comprehensive premiums,130239491
+South Dakota,2018,Comprehensive premiums,143466095
+South Dakota,2019,Comprehensive premiums,154589233
+Washington,2017,Comprehensive premiums,342214935
+Washington,2018,Comprehensive premiums,363190408
+Washington,2019,Comprehensive premiums,376921675
+Massachusetts,2017,Fatal accidents per 100 Million vehicle miles,0.56
+Massachusetts,2018,Fatal accidents per 100 Million vehicle miles,0.54
+Massachusetts,2019,Fatal accidents per 100 Million vehicle miles,0.51
+North Carolina,2017,Fatal accidents per 100 Million vehicle miles,1.18
+North Carolina,2018,Fatal accidents per 100 Million vehicle miles,1.19
+North Carolina,2019,Fatal accidents per 100 Million vehicle miles,1.12
+North Dakota,2017,Fatal accidents per 100 Million vehicle miles,1.18
+North Dakota,2018,Fatal accidents per 100 Million vehicle miles,1.07
+North Dakota,2019,Fatal accidents per 100 Million vehicle miles,1.02
+South Dakota,2017,Fatal accidents per 100 Million vehicle miles,1.34
+South Dakota,2018,Fatal accidents per 100 Million vehicle miles,1.34
+South Dakota,2019,Fatal accidents per 100 Million vehicle miles,1.03
+Washington,2017,Fatal accidents per 100 Million vehicle miles,0.92
+Washington,2018,Fatal accidents per 100 Million vehicle miles,0.88
+Washington,2019,Fatal accidents per 100 Million vehicle miles,0.83
+Massachusetts,2017,Fatal accidents per 1000 registered vehicles,0.07
+Massachusetts,2018,Fatal accidents per 1000 registered vehicles,0.07
+Massachusetts,2019,Fatal accidents per 1000 registered vehicles,0.07
+North Carolina,2017,Fatal accidents per 1000 registered vehicles,0.18
+North Carolina,2018,Fatal accidents per 1000 registered vehicles,0.18
+North Carolina,2019,Fatal accidents per 1000 registered vehicles,0.16
+North Dakota,2017,Fatal accidents per 1000 registered vehicles,0.11
+North Dakota,2018,Fatal accidents per 1000 registered vehicles,0.12
+North Dakota,2019,Fatal accidents per 1000 registered vehicles,0.12
+South Dakota,2017,Fatal accidents per 1000 registered vehicles,0.11
+South Dakota,2018,Fatal accidents per 1000 registered vehicles,0.11
+South Dakota,2019,Fatal accidents per 1000 registered vehicles,0.09
+Washington,2017,Fatal accidents per 1000 registered vehicles,0.08
+Washington,2018,Fatal accidents per 1000 registered vehicles,0.08
+Washington,2019,Fatal accidents per 1000 registered vehicles,0.07
+Massachusetts,2017,Insured drivers,4767023.765
+Massachusetts,2018,Insured drivers,4767023.765
+Massachusetts,2019,Insured drivers,4767023.765
+North Carolina,2017,Insured drivers,6898097.174
+North Carolina,2018,Insured drivers,6898097.174
+North Carolina,2019,Insured drivers,6898097.174
+North Dakota,2017,Insured drivers,488505
+North Dakota,2018,Insured drivers,488505
+North Dakota,2019,Insured drivers,488505
+South Dakota,2017,Insured drivers,586590.442
+South Dakota,2018,Insured drivers,586590.442
+South Dakota,2019,Insured drivers,586590.442
+Washington,2017,Insured drivers,4572034.092
+Washington,2018,Insured drivers,4572034.092
+Washington,2019,Insured drivers,4572034.092
+Massachusetts,2017,Insured drivers (%),
+Massachusetts,2018,Insured drivers (%),
+Massachusetts,2019,Insured drivers (%),96.5
+North Carolina,2017,Insured drivers (%),
+North Carolina,2018,Insured drivers (%),
+North Carolina,2019,Insured drivers (%),92.6
+North Dakota,2017,Insured drivers (%),
+North Dakota,2018,Insured drivers (%),
+North Dakota,2019,Insured drivers (%),87
+South Dakota,2017,Insured drivers (%),
+South Dakota,2018,Insured drivers (%),
+South Dakota,2019,Insured drivers (%),92.6
+Washington,2017,Insured drivers (%),
+Washington,2018,Insured drivers (%),
+Washington,2019,Insured drivers (%),78.3
+Massachusetts,2017,Licensed drivers,4935176
+Massachusetts,2018,Licensed drivers,4944666
+Massachusetts,2019,Licensed drivers,
+North Carolina,2017,Licensed drivers,7389467
+North Carolina,2018,Licensed drivers,7509231
+North Carolina,2019,Licensed drivers,
+North Dakota,2017,Licensed drivers,561667
+North Dakota,2018,Licensed drivers,561333
+North Dakota,2019,Licensed drivers,
+South Dakota,2017,Licensed drivers,628506
+South Dakota,2018,Licensed drivers,638428
+South Dakota,2019,Licensed drivers,
+Washington,2017,Licensed drivers,5768281
+Washington,2018,Licensed drivers,5909967
+Washington,2019,Licensed drivers,
+Massachusetts,2017,Total liability premiums,2786347471
+Massachusetts,2018,Total liability premiums,2908021887
+Massachusetts,2019,Total liability premiums,2974336847
+North Carolina,2017,Total liability premiums,2483243257
+North Carolina,2018,Total liability premiums,2724052446
+North Carolina,2019,Total liability premiums,2820837709
+North Dakota,2017,Total liability premiums,184090945
+North Dakota,2018,Total liability premiums,189139070
+North Dakota,2019,Total liability premiums,190620767
+South Dakota,2017,Total liability premiums,212556643
+South Dakota,2018,Total liability premiums,221591645
+South Dakota,2019,Total liability premiums,223323304
+Washington,2017,Total liability premiums,3013798780
+Washington,2018,Total liability premiums,3213565994
+Washington,2019,Total liability premiums,3324722648
+Massachusetts,2017,Total liablity inc losses,1883919692
+Massachusetts,2018,Total liablity inc losses,1884971967
+Massachusetts,2019,Total liablity inc losses,1941414130
+North Carolina,2017,Total liablity inc losses,2137971036
+North Carolina,2018,Total liablity inc losses,2230640201
+North Carolina,2019,Total liablity inc losses,2477546176
+North Dakota,2017,Total liablity inc losses,122212730
+North Dakota,2018,Total liablity inc losses,127386144
+North Dakota,2019,Total liablity inc losses,131590643
+South Dakota,2017,Total liablity inc losses,141477450
+South Dakota,2018,Total liablity inc losses,143683273
+South Dakota,2019,Total liablity inc losses,156270238
+Washington,2017,Total liablity inc losses,2314827529
+Washington,2018,Total liablity inc losses,2247975320
+Washington,2019,Total liablity inc losses,2103766398
+Massachusetts,2017,Total liablity loss ratio,67.61
+Massachusetts,2018,Total liablity loss ratio,64.82
+Massachusetts,2019,Total liablity loss ratio,65.27
+North Carolina,2017,Total liablity loss ratio,86.1
+North Carolina,2018,Total liablity loss ratio,81.89
+North Carolina,2019,Total liablity loss ratio,87.83
+North Dakota,2017,Total liablity loss ratio,66.39
+North Dakota,2018,Total liablity loss ratio,67.35
+North Dakota,2019,Total liablity loss ratio,69.03
+South Dakota,2017,Total liablity loss ratio,66.56
+South Dakota,2018,Total liablity loss ratio,64.84
+South Dakota,2019,Total liablity loss ratio,69.97
+Washington,2017,Total liablity loss ratio,76.81
+Washington,2018,Total liablity loss ratio,69.95
+Washington,2019,Total liablity loss ratio,63.28
+Massachusetts,2017,Profit_per_driver,189.3063311
+Massachusetts,2018,Profit_per_driver,214.6097797
+Massachusetts,2019,Profit_per_driver,216.6808407
+North Carolina,2017,Profit_per_driver,50.0532556
+North Carolina,2018,Profit_per_driver,71.52874663
+North Carolina,2019,Profit_per_driver,49.76612018
+North Dakota,2017,Profit_per_driver,126.6685397
+North Dakota,2018,Profit_per_driver,126.4120654
+North Dakota,2019,Profit_per_driver,120.838321
+South Dakota,2017,Profit_per_driver,121.1734592
+South Dakota,2018,Profit_per_driver,132.8156179
+South Dakota,2019,Profit_per_driver,114.309851
+Washington,2017,Profit_per_driver,152.8797111
+Washington,2018,Profit_per_driver,211.1949856
+Washington,2019,Profit_per_driver,267.048807
