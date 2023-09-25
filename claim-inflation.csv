@@ -1,0 +1,11 @@
+Year,Type,Claim_Sev, Inflation Rate (%), Annual Change, ,Inflation_factor,Real_Claim_Sev
+2012,Bodily injury claim severity,14690.0,2.0693,-1.09,,1.020693,14392.18256615848
+2013,Bodily injury claim severity,15441.0,1.4648,-0.6,,1.014648,15218.085483832818
+2014,Bodily injury claim severity,15384.0,1.6222,0.16,,1.016222,15138.424478116003
+2015,Bodily injury claim severity,17014.0,0.1186,-1.5,,1.001186,16993.845299474826
+2016,Bodily injury claim severity,16082.0,1.2616,1.14,,1.012616,15881.63726427392
+2017,Bodily injury claim severity,16143.0,2.1301,0.87,,1.021301,15806.309795055522
+2018,Bodily injury claim severity,17102.0,2.4426,0.31,,1.024426,16694.226815797334
+2019,Bodily injury claim severity,18204.0,1.8122,-0.63,,1.018122,17879.97902019601
+2020,Bodily injury claim severity,19691.0,1.2336,-0.58,,1.012336,19451.051824690618
+2021,Bodily injury claim severity,22734.0,4.6979,3.46,,1.046979,21713.90257111174
