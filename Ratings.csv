@@ -1,0 +1,253 @@
+State,Type,Rating
+Alabama,Profit_per_driver,3
+Alaska,Profit_per_driver,2
+Arizona,Profit_per_driver,3
+Arkansas,Profit_per_driver,3
+California,Profit_per_driver,5
+Colorado,Profit_per_driver,3
+Connecticut,Profit_per_driver,4
+Delaware,Profit_per_driver,4
+District of Columbia,Profit_per_driver,1
+Florida,Profit_per_driver,4
+Georgia,Profit_per_driver,4
+Hawaii,Profit_per_driver,3
+Idaho,Profit_per_driver,3
+Illinois,Profit_per_driver,2
+Indiana,Profit_per_driver,3
+Iowa,Profit_per_driver,2
+Kansas,Profit_per_driver,2
+Kentucky,Profit_per_driver,3
+Louisiana,Profit_per_driver,4
+Maine,Profit_per_driver,1
+Maryland,Profit_per_driver,3
+Massachusetts,Profit_per_driver,5
+Michigan,Profit_per_driver,4
+Minnesota,Profit_per_driver,4
+Mississippi,Profit_per_driver,3
+Missouri,Profit_per_driver,3
+Montana,Profit_per_driver,3
+Nebraska,Profit_per_driver,3
+Nevada,Profit_per_driver,4
+New Hampshire,Profit_per_driver,2
+New Jersey,Profit_per_driver,5
+New Mexico,Profit_per_driver,5
+New York,Profit_per_driver,2
+North Carolina,Profit_per_driver,1
+North Dakota,Profit_per_driver,2
+Ohio,Profit_per_driver,3
+Oklahoma,Profit_per_driver,4
+Oregon,Profit_per_driver,5
+Pennsylvania,Profit_per_driver,3
+Rhode Island,Profit_per_driver,5
+South Carolina,Profit_per_driver,3
+South Dakota,Profit_per_driver,2
+Tennessee,Profit_per_driver,3
+Texas,Profit_per_driver,5
+Utah,Profit_per_driver,3
+Vermont,Profit_per_driver,2
+Virginia,Profit_per_driver,2
+Washington,Profit_per_driver,5
+West Virginia,Profit_per_driver,4
+Wisconsin,Profit_per_driver,2
+Wyoming,Profit_per_driver,2
+Alabama,Boduly injury loss ratio,2
+Alaska,Boduly injury loss ratio,2
+Arizona,Boduly injury loss ratio,2
+Arkansas,Boduly injury loss ratio,3
+California,Boduly injury loss ratio,3
+Colorado,Boduly injury loss ratio,2
+Connecticut,Boduly injury loss ratio,3
+Delaware,Boduly injury loss ratio,1
+District of Columbia,Boduly injury loss ratio,1
+Florida,Boduly injury loss ratio,1
+Georgia,Boduly injury loss ratio,1
+Hawaii,Boduly injury loss ratio,5
+Idaho,Boduly injury loss ratio,4
+Illinois,Boduly injury loss ratio,3
+Indiana,Boduly injury loss ratio,4
+Iowa,Boduly injury loss ratio,4
+Kansas,Boduly injury loss ratio,2
+Kentucky,Boduly injury loss ratio,2
+Louisiana,Boduly injury loss ratio,2
+Maine,Boduly injury loss ratio,3
+Maryland,Boduly injury loss ratio,1
+Massachusetts,Boduly injury loss ratio,5
+Michigan,Boduly injury loss ratio,4
+Minnesota,Boduly injury loss ratio,4
+Mississippi,Boduly injury loss ratio,2
+Missouri,Boduly injury loss ratio,3
+Montana,Boduly injury loss ratio,4
+Nebraska,Boduly injury loss ratio,5
+Nevada,Boduly injury loss ratio,2
+New Hampshire,Boduly injury loss ratio,3
+New Jersey,Boduly injury loss ratio,1
+New Mexico,Boduly injury loss ratio,3
+New York,Boduly injury loss ratio,1
+North Carolina,Boduly injury loss ratio,2
+North Dakota,Boduly injury loss ratio,5
+Ohio,Boduly injury loss ratio,4
+Oklahoma,Boduly injury loss ratio,4
+Oregon,Boduly injury loss ratio,4
+Pennsylvania,Boduly injury loss ratio,3
+Rhode Island,Boduly injury loss ratio,3
+South Carolina,Boduly injury loss ratio,3
+South Dakota,Boduly injury loss ratio,5
+Tennessee,Boduly injury loss ratio,3
+Texas,Boduly injury loss ratio,3
+Utah,Boduly injury loss ratio,2
+Vermont,Boduly injury loss ratio,4
+Virginia,Boduly injury loss ratio,2
+Washington,Boduly injury loss ratio,4
+West Virginia,Boduly injury loss ratio,3
+Wisconsin,Boduly injury loss ratio,4
+Wyoming,Boduly injury loss ratio,4
+Alabama,Total liablity loss ratio,3
+Alaska,Total liablity loss ratio,2
+Arizona,Total liablity loss ratio,3
+Arkansas,Total liablity loss ratio,4
+California,Total liablity loss ratio,4
+Colorado,Total liablity loss ratio,2
+Connecticut,Total liablity loss ratio,3
+Delaware,Total liablity loss ratio,2
+District of Columbia,Total liablity loss ratio,2
+Florida,Total liablity loss ratio,1
+Georgia,Total liablity loss ratio,2
+Hawaii,Total liablity loss ratio,5
+Idaho,Total liablity loss ratio,5
+Illinois,Total liablity loss ratio,3
+Indiana,Total liablity loss ratio,4
+Iowa,Total liablity loss ratio,4
+Kansas,Total liablity loss ratio,3
+Kentucky,Total liablity loss ratio,3
+Louisiana,Total liablity loss ratio,2
+Maine,Total liablity loss ratio,3
+Maryland,Total liablity loss ratio,2
+Massachusetts,Total liablity loss ratio,5
+Michigan,Total liablity loss ratio,2
+Minnesota,Total liablity loss ratio,4
+Mississippi,Total liablity loss ratio,2
+Missouri,Total liablity loss ratio,3
+Montana,Total liablity loss ratio,5
+Nebraska,Total liablity loss ratio,5
+Nevada,Total liablity loss ratio,2
+New Hampshire,Total liablity loss ratio,4
+New Jersey,Total liablity loss ratio,3
+New Mexico,Total liablity loss ratio,5
+New York,Total liablity loss ratio,1
+North Carolina,Total liablity loss ratio,1
+North Dakota,Total liablity loss ratio,5
+Ohio,Total liablity loss ratio,4
+Oklahoma,Total liablity loss ratio,5
+Oregon,Total liablity loss ratio,4
+Pennsylvania,Total liablity loss ratio,4
+Rhode Island,Total liablity loss ratio,3
+South Carolina,Total liablity loss ratio,2
+South Dakota,Total liablity loss ratio,5
+Tennessee,Total liablity loss ratio,3
+Texas,Total liablity loss ratio,5
+Utah,Total liablity loss ratio,2
+Vermont,Total liablity loss ratio,5
+Virginia,Total liablity loss ratio,2
+Washington,Total liablity loss ratio,4
+West Virginia,Total liablity loss ratio,5
+Wisconsin,Total liablity loss ratio,4
+Wyoming,Total liablity loss ratio,5
+Alabama,avg_bod_cost,3
+Alaska,avg_bod_cost,2
+Arizona,avg_bod_cost,4
+Arkansas,avg_bod_cost,5
+California,avg_bod_cost,3
+Colorado,avg_bod_cost,2
+Connecticut,avg_bod_cost,2
+Delaware,avg_bod_cost,3
+District of Columbia,avg_bod_cost,5
+Florida,avg_bod_cost,2
+Georgia,avg_bod_cost,3
+Hawaii,avg_bod_cost,1
+Idaho,avg_bod_cost,4
+Illinois,avg_bod_cost,3
+Indiana,avg_bod_cost,3
+Iowa,avg_bod_cost,4
+Kansas,avg_bod_cost,2
+Kentucky,avg_bod_cost,3
+Louisiana,avg_bod_cost,4
+Maine,avg_bod_cost,3
+Maryland,avg_bod_cost,5
+Massachusetts,avg_bod_cost,5
+Michigan,avg_bod_cost,1
+Minnesota,avg_bod_cost,2
+Mississippi,avg_bod_cost,4
+Missouri,avg_bod_cost,3
+Montana,avg_bod_cost,2
+Nebraska,avg_bod_cost,4
+Nevada,avg_bod_cost,2
+New Hampshire,avg_bod_cost,3
+New Jersey,avg_bod_cost,1
+New Mexico,avg_bod_cost,4
+New York,avg_bod_cost,1
+North Carolina,avg_bod_cost,5
+North Dakota,avg_bod_cost,2
+Ohio,avg_bod_cost,5
+Oklahoma,avg_bod_cost,4
+Oregon,avg_bod_cost,4
+Pennsylvania,avg_bod_cost,2
+Rhode Island,avg_bod_cost,4
+South Carolina,avg_bod_cost,5
+South Dakota,avg_bod_cost,3
+Tennessee,avg_bod_cost,3
+Utah,avg_bod_cost,3
+Vermont,avg_bod_cost,3
+Virginia,avg_bod_cost,4
+Washington,avg_bod_cost,3
+West Virginia,avg_bod_cost,3
+Wisconsin,avg_bod_cost,2
+Wyoming,avg_bod_cost,3
+Alabama,Rel_Fatality,1
+Arizona,Rel_Fatality,1
+Arkansas,Rel_Fatality,1
+California,Rel_Fatality,2
+Colorado,Rel_Fatality,2
+Connecticut,Rel_Fatality,3
+Delaware,Rel_Fatality,2
+District of Columbia,Rel_Fatality,5
+Florida,Rel_Fatality,1
+Georgia,Rel_Fatality,1
+Idaho,Rel_Fatality,1
+Illinois,Rel_Fatality,2
+Indiana,Rel_Fatality,1
+Iowa,Rel_Fatality,2
+Kansas,Rel_Fatality,1
+Kentucky,Rel_Fatality,1
+Louisiana,Rel_Fatality,1
+Maine,Rel_Fatality,2
+Maryland,Rel_Fatality,2
+Massachusetts,Rel_Fatality,4
+Michigan,Rel_Fatality,2
+Minnesota,Rel_Fatality,3
+Mississippi,Rel_Fatality,1
+Missouri,Rel_Fatality,1
+Montana,Rel_Fatality,1
+Nebraska,Rel_Fatality,2
+Nevada,Rel_Fatality,2
+New Hampshire,Rel_Fatality,3
+New Jersey,Rel_Fatality,3
+New Mexico,Rel_Fatality,1
+New York,Rel_Fatality,4
+North Carolina,Rel_Fatality,1
+North Dakota,Rel_Fatality,1
+Ohio,Rel_Fatality,2
+Oklahoma,Rel_Fatality,1
+Oregon,Rel_Fatality,2
+Pennsylvania,Rel_Fatality,2
+Rhode Island,Rel_Fatality,4
+South Carolina,Rel_Fatality,1
+South Dakota,Rel_Fatality,1
+Tennessee,Rel_Fatality,1
+Texas,Rel_Fatality,1
+Utah,Rel_Fatality,2
+Vermont,Rel_Fatality,2
+Virginia,Rel_Fatality,2
+Washington,Rel_Fatality,3
+West Virginia,Rel_Fatality,1
+Wisconsin,Rel_Fatality,2
+Wyoming,Rel_Fatality,1
