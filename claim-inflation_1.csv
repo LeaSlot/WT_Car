@@ -1,11 +1,61 @@
-Year,Type,Claim_Sev, Inflation Rate (%), Annual Change, ,Real_Claim_Sev,Inflation Factor
-2012,Bodily injury claim severity,14690.0,2.0693,-1.09,,14392.18256615848,1.020693
-2013,Bodily injury claim severity,15441.0,1.4648,-0.6,,14909.561919042078,1.035644111064
-2014,Bodily injury claim severity,15384.0,1.6222,0.16,,14617.400240477484,1.05244432983368
-2015,Bodily injury claim severity,17014.0,0.1186,-1.5,,16147.025374881725,1.0536925288088628
-2016,Bodily injury claim severity,16082.0,1.2616,1.14,,15072.363929757737,1.0669859137523154
-2017,Bodily injury claim severity,16143.0,2.1301,0.87,,14813.981694911783,1.0897137807011534
-2018,Bodily injury claim severity,17102.0,2.4426,0.31,,15319.827198161875,1.1163311295085598
-2019,Bodily injury claim severity,18204.0,1.8122,-0.63,,16016.73423553751,1.136561282237514
-2020,Bodily injury claim severity,19691.0,1.2336,-0.58,,17113.949004490034,1.1505819022151957
-2021,Bodily injury claim severity,22734.0,4.6979,3.46,,18872.105088135257,1.2046350893993636
+Inflation Factor,Year,Type,Claim_Sev, Inflation Rate (%), Annual Change,Real_Claim_Sev,Corona,,
+1.020693,2012,Bodily injury claim severity,14690,2.0693,-1.09,14392.18257,Pre,,
+1.035644111,2013,Bodily injury claim severity,15441,1.4648,-0.6,14909.56192,Pre,,0.001762742
+1.05244433,2014,Bodily injury claim severity,15384,1.6222,0.16,14617.40024,Pre,,1.83443E-06
+1.053692529,2015,Bodily injury claim severity,17014,0.1186,-1.5,16147.02537,Pre,,0.024966546
+1.066985914,2016,Bodily injury claim severity,16082,1.2616,1.14,15072.36393,Pre,,
+1.089713781,2017,Bodily injury claim severity,16143,2.1301,0.87,14813.98169,Pre,,
+1.11633113,2018,Bodily injury claim severity,17102,2.4426,0.31,15319.8272,Pre,,
+1.136561282,2019,Bodily injury claim severity,18204,1.8122,-0.63,16016.73424,Pre,,
+1.150581902,2020,Bodily injury claim severity,19691,1.2336,-0.58,17113.949,Post,,
+1.204635089,2021,Bodily injury claim severity,22734,4.6979,3.46,18872.10509,Post,,
+,2012,Total claim severity,22298,,,21845.94192,Pre,,
+,2013,Total claim severity,23437,,,22630.3609,Pre,,
+,2014,Total claim severity,23641,,,22462.94586,Pre,,
+,2015,Total claim severity,25698,,,24388.51875,Pre,,
+,2016,Total claim severity,25456,,,23857.85948,Pre,,
+,2017,Total claim severity,25593,,,23485.98362,Pre,,
+,2018,Total claim severity,26880,,,24078.87704,Pre,,
+,2019,Total claim severity,28292,,,24892.63047,Pre,,
+,2020,Total claim severity,30423,,,26441.40321,Post,,
+,2021,Total claim severity,35100,,,29137.45441,Post,,
+,2012,Real BI claim severity ,14392.18257,,,,Pre,,
+,2013,Real BI claim severity ,14909.56192,,,,Pre,,
+,2014,Real BI claim severity ,14617.40024,,,,Pre,,
+,2015,Real BI claim severity ,16147.02537,,,,Pre,,
+,2016,Real BI claim severity ,15072.36393,,,,Pre,,
+,2017,Real BI claim severity ,14813.98169,,,,Pre,,
+,2018,Real BI claim severity ,15319.8272,,,,Pre,,
+,2019,Real BI claim severity ,16016.73424,,,,Pre,,
+,2020,Real BI claim severity ,17113.949,,,,Post,,
+,2021,Real BI claim severity ,18872.10509,,,,Post,,
+,2012,Real Total claim severity,21845.94192,,,,Pre,,
+,2013,Real Total claim severity,22630.3609,,,,Pre,,
+,2014,Real Total claim severity,22462.94586,,,,Pre,,
+,2015,Real Total claim severity,24388.51875,,,,Pre,,
+,2016,Real Total claim severity,23857.85948,,,,Pre,,
+,2017,Real Total claim severity,23485.98362,,,,Pre,,
+,2018,Real Total claim severity,24078.87704,,,,Pre,,
+,2019,Real Total claim severity,24892.63047,,,,Pre,,
+,2020,Real Total claim severity,26441.40321,,,,Post,,
+,2021,Real Total claim severity,29137.45441,,,,Post,,
+,2012,Total claim frequency,12.64,,,,Pre,,
+,2013,Total claim frequency,12.78,,,,Pre,,
+,2014,Total claim frequency,13.1,,,,Pre,,
+,2015,Total claim frequency,12.97,,,,Pre,,
+,2016,Total claim frequency,12.26,,,,Pre,,
+,2017,Total claim frequency,12.56,,,,Pre,,
+,2018,Total claim frequency,12.6,,,,Pre,,
+,2019,Total claim frequency,12.73,,,,Pre,,
+,2020,Total claim frequency,10.28,,,,Post,,
+,2021,Total claim frequency,10.41,,,,Post,,
+,2012,Bodily injury claim frequency,0.95,,,,Pre,,
+,2013,Bodily injury claim frequency,0.95,,,,Pre,,
+,2014,Bodily injury claim frequency,0.97,,,,Pre,,
+,2015,Bodily injury claim frequency,0.89,,,,Pre,,
+,2016,Bodily injury claim frequency,1.04,,,,Pre,,
+,2017,Bodily injury claim frequency,1.08,,,,Pre,,
+,2018,Bodily injury claim frequency,1.09,,,,Pre,,
+,2019,Bodily injury claim frequency,1.07,,,,Pre,,
+,2020,Bodily injury claim frequency,0.9,,,,Post,,
+,2021,Bodily injury claim frequency,0.78,,,,Post,,
